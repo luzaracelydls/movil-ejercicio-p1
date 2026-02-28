@@ -2,14 +2,8 @@
 Mi primer proyecto de React con Expo GO
 
 
-1. Instalar Node https://nodejs.org/en/download 
-2. Probar aplicación
-   a. Instalar Android Studio para utilizar Simulador de Android en tu computadora https://developer.android.com/studio
-   b. Instalar la app Expo GO en tu celular para utilizar tu celular para probar la aplicación https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en 
-4. En terminal: **npx create-expo-app hola-mundo --template**
-7. Seleccionar **Blank / En blanco**
-8. Escribir el nombre de tu aplicación
-9. Correr el comando **npm run web**
-10. Puedes presionar en la terminal la tecla i para correr el simuador de iOS o a para el de Android
-11. Puedes escanear el código QR y otorgar permisos en tu celular a Expo GO, esto te permitirá abrir tu proyecto en el celular
-12. Subir el proyecto en Github. No subir dependencias asegurarse de que el .gitignore esté actualizado
+1. Crear proyecto: **npx create-expo-app parcial1 --template**
+2. Seleccionar **Blank / En blanco**
+3. Escribir el nombre de tu aplicación
+4. Crear una vista de navegación con Tabs o Pestañas donde los botones tengan el mismo width y estén acomodados en una fila al fondo de la página.
+5. Crear una navegación donde al hacer clic en cada tab muestre el nombre del componente. Enviar este titulo de componente a través del parámetro en la ruta.

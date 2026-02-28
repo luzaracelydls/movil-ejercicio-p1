@@ -1,4 +1,4 @@
-# react-native-expo
+# ejercicio parcial 1
 Mi primer proyecto de React con Expo GO
 
 
